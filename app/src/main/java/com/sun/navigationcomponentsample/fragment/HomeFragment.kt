@@ -45,6 +45,8 @@ class HomeFragment : Fragment(), OnClickListener {
         button_go_search?.setOnClickListener(this)
         button_go_detail?.setOnClickListener(this)
         navController = Navigation.findNavController(view)
+        /*Moi Activity co graph rieng*/
+        navController.navigate(R.id.action_homeFragment_to_loginActivity)
     }
 
     // Truyen data

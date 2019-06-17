@@ -1,8 +1,8 @@
-package com.sun.navigationcomponentsample
+package com.sun.navigationcomponentsample.activities
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.navigation.NavController
+import com.sun.navigationcomponentsample.R
 
 class MainActivity : AppCompatActivity() {
 

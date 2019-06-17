@@ -35,3 +35,6 @@ người dùng back.
 - https://developer.android.com/guide/navigation/navigation-getting-started#navigate
 - https://medium.com/google-developer-experts/android-navigation-components-part-2-ca643eb301e3
 - https://viblo.asia/p/can-ban-ve-android-navigation-components-E375z0WWZGW
+- https://viblo.asia/p/tong-hop-cac-cau-hoi-lien-quan-den-navigation-component-android-bWrZna3mKxw
+- https://viblo.asia/p/navigation-architecture-component-part-1-oOVlYq4yl8W#_truyen-gui-du-lieu-mot-cach-an-toan-hon---args-plugin-cua-nagivation-architecture-architecture-11
+- https://viblo.asia/p/navigation-architecture-component-part-2-eW65GEwOZDO#_navigation-giua-cac-activity-5
